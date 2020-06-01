@@ -9,7 +9,8 @@
         "semi":"off",
         "require-jsdoc":"off",
         "operator-linebreak":"off",
-        "no-debugger":"off"
+        "no-debugger":"off",
+        "object-curly-spacing":"off"
     },
     "extends": [
         "eslint:recommended", 
